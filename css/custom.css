@@ -1,1 +1,6 @@
-/****** PLACE YOUR CUSTOM STYLES HERE ******/
+@media only screen and (max-width:768px) {
+  .project {
+    min-height:260px;
+  }
+
+  }/****** PLACE YOUR CUSTOM STYLES HERE ******/
